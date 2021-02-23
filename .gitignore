@@ -131,4 +131,5 @@ dmypy.json
 
 **/**/.pytest_cache/**/*
 
+**/**/.iea/**/*
 
